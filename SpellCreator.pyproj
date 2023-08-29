@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c1630490-3e46-4559-bc75-adaaeecd7557</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>modules\spell_generator.py</StartupFile>
+    <StartupFile>spell_generator.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,7 +23,7 @@
   <ItemGroup>
     <Compile Include="main.py" />
     <Compile Include="modules\utils.py.py" />
-    <Compile Include="modules\spell_generator.py" />
+    <Compile Include="spell_generator.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="modules\" />
