@@ -4,7 +4,11 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>c1630490-3e46-4559-bc75-adaaeecd7557</ProjectGuid>
     <ProjectHome>.</ProjectHome>
+<<<<<<< HEAD
     <StartupFile>spell_generator.py</StartupFile>
+=======
+    <StartupFile>SpellCreator.py</StartupFile>
+>>>>>>> 8293fa8ccb33f143f8a76fd7b2b66447402779ad
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +25,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="main.py" />
     <Compile Include="modules\utils.py.py" />
     <Compile Include="spell_generator.py" />
@@ -28,6 +33,9 @@
   <ItemGroup>
     <Folder Include="modules\" />
     <Folder Include="config\" />
+=======
+    <Compile Include="SpellCreator.py" />
+>>>>>>> 8293fa8ccb33f143f8a76fd7b2b66447402779ad
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
